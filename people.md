@@ -6,7 +6,7 @@ permalink: /people/
 
 ### **Principle Investigator**
 
-<p><img align="left" src="/files/Song_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Li_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Wenjin Li</b><br>
 Professor, College of Ecology<br>
