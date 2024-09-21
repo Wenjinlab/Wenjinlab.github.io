@@ -66,6 +66,15 @@ Office: 820, 2YiFu Building <br>
 Forest Ecology <br>
 <br clear="left"/></p> 
 
+<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+
+<b>Xinyue Huang</b><br>
+Master student (2024.09 - )<br>
+Office: 820, 2YiFu Building <br>
+Joint Cultivation (Chinese Research Academy of Environmental Sciences)
+
+<br clear="left"/></p> 
+
 <p><img align="left" src="/files/Liang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Jiahao Liang</b><br>
@@ -75,6 +84,13 @@ Landscape ecology; Biodiversity and ecosystem functioning <br>
 <br clear="left"/></p> 
 
 ### **Graduated Students**
+
+<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+
+<b>Xi Yan</b><br>
+Master student (2018.09 - 2021.06)<br>
+Graduation to: Public servant <br>
+<br clear="left"/></p> 
 
 <p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
@@ -95,4 +111,12 @@ Graduation to: Public servant <br>
 
 <b>Xianglin Yang</b><br>
 Master student (2021.09 - 2024.06)<br>
+<br clear="left"/></p>
+
+<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+
+<b>Mengluan Jiang</b><br>
+Undergraduate student (2019.09 - 2023.06)<br>
+Graduation to: Peking University (Ph.D. student) <br>
 <br clear="left"/></p> 
+
