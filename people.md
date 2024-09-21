@@ -69,7 +69,7 @@ Forest Ecology <br>
 <p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Xinyue Huang</b><br>
-Master student (2024.09 - )<br>
+Master's student (2024.09 - )<br>
 Office: 820, 2YiFu Building <br>
 Joint Cultivation (Chinese Research Academy of Environmental Sciences)
 
@@ -88,14 +88,14 @@ Landscape ecology; Biodiversity and ecosystem functioning <br>
 <p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Xi Yan</b><br>
-Master student (2018.09 - 2021.06)<br>
+Master's student (2018.09 - 2021.06)<br>
 Graduation to: Public servant <br>
 <br clear="left"/></p> 
 
 <p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Huan Dong</b><br>
-Master student (2019.09 - 2022.06)<br>
+Master's student (2019.09 - 2022.06)<br>
 Graduation to: Public servant <br>
 <br clear="left"/></p> 
 
@@ -103,14 +103,14 @@ Graduation to: Public servant <br>
 <p><img align="left" src="/files/Xiang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Zhiqiang Xiang</b><br>
-Master student (2021.09 - 2024.06)<br>
+Master's student (2021.09 - 2024.06)<br>
 Graduation to: Public servant <br>
 <br clear="left"/></p> 
 
 <p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Xianglin Yang</b><br>
-Master student (2021.09 - 2024.06)<br>
+Master's student (2021.09 - 2024.06)<br>
 <br clear="left"/></p>
 
 <p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
