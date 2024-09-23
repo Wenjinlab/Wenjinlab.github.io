@@ -41,9 +41,7 @@ Biodiversity and ecosystem multifunctionality <br>
 <b>Yi Xu</b><br>
 Master's student (2023.09 - )<br>
 Office: 820, 2YiFu Building <br>
-Soil Ecology <br>
-### **Scientific Writing (416133001)**
-[paper](files/窝圈距离影响高寒草甸植物群落结构和土壤养分空间分布.pdf) | <a href="https://cykx.lzu.edu.cn/article/doi/10.11829/j.issn.1001-0629.2024-0306">Link</a>
+Soil Ecology <br> | <a href="https://cykx.lzu.edu.cn/article/doi/10.11829/j.issn.1001-0629.2024-0306">Link</a>
 <br clear="left"/></p> 
 
 <p><img align="left" src="/files/Deng_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
