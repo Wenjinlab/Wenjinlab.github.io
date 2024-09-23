@@ -42,6 +42,8 @@ Biodiversity and ecosystem multifunctionality <br>
 Master's student (2023.09 - )<br>
 Office: 820, 2YiFu Building <br>
 Soil Ecology <br>
+
+ [[Link]](https://doi.org/10.1007/s00267-009-9361-1)
 <br clear="left"/></p> 
 
 <p><img align="left" src="/files/Deng_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
