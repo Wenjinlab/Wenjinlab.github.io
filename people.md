@@ -113,8 +113,7 @@ Graduation to: Public servant <br>
 
 <b>Xianglin Yang</b><br>
 Master's student (2021.09 - 2024.06)<br>
-Graduation to: Public servant (resignation)
-<a href="https://www.biodiversity-science.net/CN/10.17520/biods.2024175">paper</a> 
+Graduation to: Public servant (resignation) | <a href="https://www.biodiversity-science.net/CN/10.17520/biods.2024175">paper</a> 
 <br clear="left"/></p>
 
 <p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
