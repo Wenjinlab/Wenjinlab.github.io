@@ -42,8 +42,7 @@ Biodiversity and ecosystem multifunctionality <br>
 Master's student (2023.09 - )<br>
 Office: 820, 2YiFu Building <br>
 Soil Ecology <br>
-
- [[Link]](https://doi.org/10.1007/s00267-009-9361-1)
+[paper](files/窝圈距离影响高寒草甸植物群落结构和土壤养分空间分布.pdf) \   [[Link]](https://cykx.lzu.edu.cn/article/doi/10.11829/j.issn.1001-0629.2024-0306)
 <br clear="left"/></p> 
 
 <p><img align="left" src="/files/Deng_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
