@@ -28,7 +28,7 @@ Email: <a href="mailto: zhoux2023@lzu.edu.cn">zhoux2023@lzu.edu.cn</a><br>
 <a href="https://www.researchgate.net/profile/Xi-Zhou-35">Reseachgate</a> | <a href="https://github.com/XiZhou98">Github</a>
 <br clear="left"/></p> 
 
-<p><img align="left" src="/files/Yu_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Yu1_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Wang Yu</b><br>
 Master's student<br>
@@ -109,7 +109,7 @@ Master's student (2021.09 - 2024.06)<br>
 Graduation to: Public servant <br>
 <br clear="left"/></p> 
 
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Yang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Xianglin Yang</b><br>
 Master's student (2021.09 - 2024.06)<br>
