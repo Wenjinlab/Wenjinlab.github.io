@@ -94,7 +94,7 @@ Master's student (2018.09 - 2021.06)<br>
 Graduation to: Public servant <br>
 <br clear="left"/></p> 
 
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<p><img align="left" src="/files/Dong_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
 
 <b>Huan Dong</b><br>
 Master's student (2019.09 - 2022.06)<br>
