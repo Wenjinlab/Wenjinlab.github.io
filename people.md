@@ -4,122 +4,32 @@ title: People
 permalink: /people/
 ---
 
-### **Principle Investigator**
+## Principal Investigator
 
-<p><img align="left" src="/files/Li_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+<div class="person-card person-card--lead">
+  <img src="{{ '/files/Li_profile.jpg' | relative_url }}" alt="Wenjin Li" loading="lazy">
+  <div><h3>Wenjin Li</h3><p>Professor, College of Ecology<br>Office: 818, Yifu Building<br>Biodiversity maintenance mechanisms; biodiversity and ecosystem functioning; plant-herbivore-microbial relationships</p><p><a href="mailto:liwj@lzu.edu.cn">Email</a> · <a href="https://www.researchgate.net/profile/Wenjin-Li-6">ResearchGate</a> · <a href="https://orcid.org/0000-0002-6426-4852">ORCID</a></p></div>
+</div>
 
-<b>Wenjin Li</b><br>
-Professor, College of Ecology<br>
-Office: 818, 2YiFu Building<br>
-Biodiversity maintenance mechanisms; biodiversity and ecosystem function; Plant - herbivore - microbial relationship<br>
-Email: <a href="mailto: liwj@lzu.edu.cn">liwj@lzu.edu.cn</a><br>
-<a href="https://www.researchgate.net/profile/Wenjin-Li-6">Reseachgate</a> | <a href="https://orcid.org/0000-0002-6426-4852">ORCiD</a>
-<br clear="left"/></p>
+## Graduate Students
 
-### **Graduate Students**
+<div class="people-grid">
+  <article class="person-card"><img src="{{ '/files/Zhou_profile.jpg' | relative_url }}" alt="Xi Zhou" loading="lazy"><div><h3>Xi Zhou</h3><p>Ph.D. student (2023.09-present)<br>Biodiversity and ecosystem stability</p><p><a href="{{ '/files/papers/zhou-2026-dominant-grasses-multifunctionality.pdf' | relative_url }}">2026 publication (PDF)</a></p></div></article>
+  <article class="person-card"><img src="{{ '/files/Pan_profile.jpg' | relative_url }}" alt="Zhongxian Pan" loading="lazy"><div><h3>Zhongxian Pan</h3><p>Master's student (2024.09-present)<br>Restoration ecology</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Wang_profile.jpg' | relative_url }}" alt="Xueyi Wang" loading="lazy"><div><h3>Xueyi Wang</h3><p>Master's student (2024.09-present)<br>Forest ecology</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Yubo Wang" loading="lazy"><div><h3>Yubo Wang</h3><p>Master's student</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Siya A" loading="lazy"><div><h3>Siya A</h3><p>Master's student</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Xin Meng" loading="lazy"><div><h3>Xin Meng</h3><p>Master's student</p></div></article>
+</div>
 
-<p><img align="left" src="/files/Zhou_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
+## Alumni
 
-<b>Xi Zhou</b><br>
-Ph.D. student (2023.09 - )<br>
-Office: 820, 2YiFu Building <br>
-Biodiversity and ecosystem stability <br>
-Email: <a href="mailto: zhoux2023@lzu.edu.cn">zhoux2023@lzu.edu.cn</a><br>
-<a href="https://www.researchgate.net/profile/Xi-Zhou-35">Reseachgate</a> | <a href="https://github.com/XiZhou98">Github</a>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Yu1_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Wang Yu</b><br>
-Master's student<br>
-Office: 820, 2YiFu Building <br>
-Biodiversity and ecosystem multifunctionality <br>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Xu_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Yi Xu</b><br>
-Master's student (2023.09 - )<br>
-Office: 820, 2YiFu Building <br>
-Soil Ecology | <a href="https://cykx.lzu.edu.cn/article/doi/10.11829/j.issn.1001-0629.2024-0306">paper</a>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Deng_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Yuehua Deng</b><br>
-Master's student (2023.09 - )<br>
-Office: 820, 2YiFu Building <br>
-Forest Ecology; Ecological Remote Sensing <br>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Pan_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Zhongxian Pan</b><br>
-Master's student (2024.09 - )<br>
-Office: 820, 2YiFu Building <br>
-Restoration Ecology <br>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Wang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Xueyi Wang</b><br>
-Master's student (2024.09 - )<br>
-Office: 820, 2YiFu Building <br>
-Forest Ecology <br>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Xinyue Huang</b><br>
-Master's student (2024.09 - )<br>
-Office: 820, 2YiFu Building <br>
-Joint Cultivation (Chinese Research Academy of Environmental Sciences)
-
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Liang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Jiahao Liang</b><br>
-Undergraduate student (2021.09 - )<br>
-Office: 820, 2YiFu Building <br>
-Landscape ecology; Biodiversity and ecosystem functioning <br>
-<br clear="left"/></p> 
-
-### **Graduated Students**
-
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Xi Yan</b><br>
-Master's student (2018.09 - 2021.06)<br>
-Graduation to: Public servant <br>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Dong_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Huan Dong</b><br>
-Master's student (2019.09 - 2022.06)<br>
-Graduation to: Public servant <br>
-<br clear="left"/></p> 
-
-
-<p><img align="left" src="/files/Xiang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Zhiqiang Xiang</b><br>
-Master's student (2021.09 - 2024.06)<br>
-Graduation to: Public servant <br>
-<br clear="left"/></p> 
-
-<p><img align="left" src="/files/Yang_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Xianglin Yang</b><br>
-Master's student (2021.09 - 2024.06)<br>
-Graduation to: Public servant (resignation) | <a href="https://www.biodiversity-science.net/CN/10.17520/biods.2024175">paper</a> 
-<br clear="left"/></p>
-
-<p><img align="left" src="/files/Default_profile.jpg" width="110" style="margin:5px 20px 2px 2px;"/>
-
-<b>Mengluan Jiang</b><br>
-Undergraduate student (2019.09 - 2023.06)<br>
-Graduation to: Peking University (Ph.D. student) <br>
-<br clear="left"/></p> 
-
+<div class="people-grid">
+  <article class="person-card"><img src="{{ '/files/Yu_profile.jpg' | relative_url }}" alt="Wang Yu" loading="lazy"><div><h3>Wang Yu</h3><p>Master's graduate<br>Biodiversity and ecosystem multifunctionality</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Xu_profile.jpg' | relative_url }}" alt="Yi Xu" loading="lazy"><div><h3>Yi Xu</h3><p>Master student (2023.09-2026.06)<br>Soil ecology</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Deng_profile.jpg' | relative_url }}" alt="Yuehua Deng" loading="lazy"><div><h3>Yuehua Deng</h3><p>Master student (2023.09-2026.06)<br>Forest ecology; ecological remote sensing</p><p><a href="{{ '/files/papers/deng-2025-hierarchical-management-restoration.pdf' | relative_url }}">Publication (PDF)</a></p></div></article>
+  <article class="person-card"><img src="{{ '/files/Liang_profile.jpg' | relative_url }}" alt="Jiahao Liang" loading="lazy"><div><h3>Jiahao Liang</h3><p>Master student (2021.09-2025.06)<br>Landscape ecology; biodiversity and ecosystem functioning<br>Ph.D. student, Peking University</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Huan Dong" loading="lazy"><div><h3>Huan Dong</h3><p>Master student (2019.09-2022.06)<br>Public servant</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Xiang_profile.jpg' | relative_url }}" alt="Zhiqiang Xiang" loading="lazy"><div><h3>Zhiqiang Xiang</h3><p>Master student (2021.09-2024.06)<br>Public servant</p><p><a href="{{ '/files/papers/xiang-2026-landscape-diversity-ndvi-stability.pdf' | relative_url }}">2026 publication (PDF)</a></p></div></article>
+  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Xianglin Yang" loading="lazy"><div><h3>Xianglin Yang</h3><p>Master student (2021.09-2024.06)<br>Ph.D. student at Lanzhou University (LZU)</p></div></article>
+</div>

@@ -21,6 +21,12 @@ In 2012, 132 fixed sample plots were deployed at the Cooperative Experimental St
 
 <br clear="left"/>  
 
+Selected publications from this experiment:
+
+- Zhou, X. et al. (2026). Dominant grasses, not subordinate forbs, sustain ecosystem multifunctionality across spatial scales. [[PDF]]({{ '/files/papers/zhou-2026-dominant-grasses-multifunctionality.pdf' | relative_url }})
+- Li, W. et al. (2022). Nitrogen deposition magnifies destabilizing effects of plant functional group loss. [[DOI]](https://doi.org/10.1016/j.scitotenv.2022.155419)
+- Li, W. et al. (2018). Effect of loss of plant functional group and simulated nitrogen deposition on subalpine ecosystem properties on the Tibetan Plateau. [[DOI]](https://doi.org/10.1016/j.scitotenv.2018.02.287)
+
 ### **Experiments on plant-herbivore mutualism (2017-present)**
 
 <p><img align="left" src="/files/Project_grazing.jpg" width="225" style="margin:2px 10px 2px 2px;"/></p>
