@@ -14,12 +14,12 @@ permalink: /people/
 ## Graduate Students
 
 <div class="people-grid">
-  <article class="person-card"><img src="{{ '/files/Zhou_profile.jpg' | relative_url }}" alt="Xi Zhou" loading="lazy"><div><h3>Xi Zhou</h3><p>Ph.D. student (2023.09-present)<br>Biodiversity and ecosystem stability</p><p><a href="{{ '/files/papers/zhou-2026-dominant-grasses-multifunctionality.pdf' | relative_url }}">2026 publication (PDF)</a></p></div></article>
+  <article class="person-card"><img src="{{ '/files/Zhou_profile.jpg' | relative_url }}" alt="Xi Zhou" loading="lazy"><div><h3>Xi Zhou</h3><p>Ph.D. student (2023.09-present)<br>Biodiversity and ecosystem stability</p><p><a href="mailto:zhoux2023@lzu.edu.cn">Email</a> · <a href="https://www.researchgate.net/profile/Xi-Zhou-35?ev=hdr_xprf">ResearchGate</a> · <a href="https://orcid.org/0000-0002-7315-2086">ORCID</a></p><p><a href="{{ '/files/papers/zhou-2026-dominant-grasses-multifunctionality.pdf' | relative_url }}">2026 publication (PDF)</a></p></div></article>
   <article class="person-card"><img src="{{ '/files/Pan_profile.jpg' | relative_url }}" alt="Zhongxian Pan" loading="lazy"><div><h3>Zhongxian Pan</h3><p>Master's student (2024.09-present)<br>Restoration ecology</p></div></article>
   <article class="person-card"><img src="{{ '/files/Wang_profile.jpg' | relative_url }}" alt="Xueyi Wang" loading="lazy"><div><h3>Xueyi Wang</h3><p>Master's student (2024.09-present)<br>Forest ecology</p></div></article>
-  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Yubo Wang" loading="lazy"><div><h3>Yubo Wang</h3><p>Master's student</p></div></article>
-  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Siya A" loading="lazy"><div><h3>Siya A</h3><p>Master's student</p></div></article>
-  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Xin Meng" loading="lazy"><div><h3>Xin Meng</h3><p>Master's student</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Yubo Wang" loading="lazy"><div><h3>Yubo Wang</h3><p>Master's student (2026.09-present)</p></div></article>
+  <article class="person-card"><img src="{{ '/files/SiyaA_profile.jpg' | relative_url }}" alt="Siya A" loading="lazy"><div><h3>Siya A</h3><p>Master's student (2026.09-present)</p></div></article>
+  <article class="person-card"><img src="{{ '/files/XinMeng_profile.jpg' | relative_url }}" alt="Xin Meng" loading="lazy"><div><h3>Xin Meng</h3><p>Master's student (2026.09-present)</p></div></article>
 </div>
 
 ## Alumni
