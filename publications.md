@@ -18,6 +18,8 @@ Deng, Y., Xu, Y., Luo, J., Luozang'angmao, Kazhuocairang, Qi, X., Zhou, X., & **
 
 ## 2024
 
+Yang, X., Zhao, C., Li, J., Chong, F., & **Li, W.** (2024). Invasive plant species lead to a more clustered community phylogenetic structure: An analysis of herbaceous plants in Guangxi's national nature reserves. *Biodiversity Science, 32*(11), 24175. [[PDF]]({{ '/files/papers/yang-2024-invasive-plants-phylogenetic-structure.pdf' | relative_url }}) [[DOI]](https://doi.org/10.17520/biods.2024175)
+
 Cui, H., Wang, Y., Zhou, X., & **Li, W.** (2024). Positive role of plateau pika (*Ochotona coronae*) on environmental quality at low and moderate density on the Tibetan Plateau: Evidence from a meta-analysis. *Journal of Environmental Management, 361*, 121239. [[DOI]](https://doi.org/10.1016/j.jenvman.2024.121239)
 
 ## 2023
