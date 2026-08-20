@@ -26,6 +26,7 @@ permalink: /people/
 
 <div class="people-grid">
   <article class="person-card"><img src="{{ '/files/Yu_profile.jpg' | relative_url }}" alt="Wang Yu" loading="lazy"><div><h3>Wang Yu</h3><p>Master's graduate (2022.09-2025.06)<br>Biodiversity and ecosystem multifunctionality</p></div></article>
+  <article class="person-card"><img src="{{ '/files/Default_profile.jpg' | relative_url }}" alt="Default profile image for Meng Chen" loading="lazy"><div><h3>Meng Chen</h3><p>Master's graduate (2022.09-2025.06)</p></div></article>
   <article class="person-card"><img src="{{ '/files/Xu_profile.jpg' | relative_url }}" alt="Yi Xu" loading="lazy"><div><h3>Yi Xu</h3><p>Master's graduate (2023.09-2026.06)<br>Soil ecology<br>Public servant</p></div></article>
   <article class="person-card"><img src="{{ '/files/Deng_profile.jpg' | relative_url }}" alt="Yuehua Deng" loading="lazy"><div><h3>Yuehua Deng</h3><p>Master's graduate (2023.09-2026.06)<br>Forest ecology; ecological remote sensing<br>Public servant</p><p><a href="{{ '/files/papers/deng-2025-hierarchical-management-restoration.pdf' | relative_url }}">Publication (PDF)</a></p></div></article>
   <article class="person-card"><img src="{{ '/files/Liang_profile.jpg' | relative_url }}" alt="Jiahao Liang" loading="lazy"><div><h3>Jiahao Liang</h3><p>Bachelor's graduate (2021.09-2025.06)<br>Landscape ecology; biodiversity and ecosystem functioning<br>Ph.D. student, Peking University</p></div></article>
