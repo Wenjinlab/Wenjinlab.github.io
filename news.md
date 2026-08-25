@@ -14,7 +14,7 @@ permalink: /news/
   </article>
   <article class="news-item">
     <div class="news-item__meta"><span>August 2026</span><span>Publication</span></div>
-    <div><h2>New paper in <em>Proceedings of the National Academy of Sciences (PNAS)</em></h2><p>Xi Zhou and Wenjin Li, together with Ashish N. Nerlekar and colleagues, published a global synthesis that draws in part on the abandoned-field succession experiment: “Grassland destruction causes shifts in plant traits that persist during recovery.”</p><p><a href="{{ '/files/papers/nerlekar-2026-grassland-traits-recovery.pdf' | relative_url }}">PDF</a> · <a href="https://doi.org/10.1073/pnas.2533967123">DOI</a></p></div>
+    <div><h2>New paper in <em>Proceedings of the National Academy of Sciences (PNAS)</em></h2><p>Led by Ashish N. Nerlekar and conducted in collaboration with Xi Zhou and Wenjin Li, the study combined data from our abandoned-field succession experiment with data from 23 other grassland succession experiments worldwide. The resulting global synthesis was published in PNAS as “Grassland destruction causes shifts in plant traits that persist during recovery.”</p><p><a href="{{ '/files/papers/nerlekar-2026-grassland-traits-recovery.pdf' | relative_url }}">PDF</a> · <a href="https://doi.org/10.1073/pnas.2533967123">DOI</a></p></div>
   </article>
   <article class="news-item">
     <div class="news-item__meta"><span>August 2026</span><span>Publication</span></div>
