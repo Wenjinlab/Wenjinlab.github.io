@@ -14,6 +14,10 @@ permalink: /news/
   </article>
   <article class="news-item">
     <div class="news-item__meta"><span>August 2026</span><span>Publication</span></div>
+    <div><h2>New paper in <em>Proceedings of the National Academy of Sciences (PNAS)</em></h2><p>Xi Zhou and Wenjin Li, together with Ashish N. Nerlekar and colleagues, published a global synthesis that draws in part on the abandoned-field succession experiment: “Grassland destruction causes shifts in plant traits that persist during recovery.”</p><p><a href="{{ '/files/papers/nerlekar-2026-grassland-traits-recovery.pdf' | relative_url }}">PDF</a> · <a href="https://doi.org/10.1073/pnas.2533967123">DOI</a></p></div>
+  </article>
+  <article class="news-item">
+    <div class="news-item__meta"><span>August 2026</span><span>Publication</span></div>
     <div><h2>New paper in <em>Global Change Biology</em></h2><p>Xi Zhou and colleagues published “Dominant grasses, not subordinate forbs, sustain ecosystem multifunctionality across spatial scales.”</p><p><a href="{{ '/files/papers/zhou-2026-dominant-grasses-multifunctionality.pdf' | relative_url }}">PDF</a> · <a href="https://doi.org/10.1111/gcb.71027">DOI</a></p></div>
   </article>
   <article class="news-item">
