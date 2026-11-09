@@ -10,7 +10,7 @@ permalink: /news/
 <div class="news-list">
   <article class="news-item">
     <div class="news-item__meta"><span>October 15, 2026</span><span>Awards</span></div>
-    <div><h2>Scholarship honors</h2><p>Congratulations to Ph.D. student Xi Zhou and master's student Xueyi Wang on receiving the National Scholarship, and to master's student Zhongxian Pan on receiving the Special-Class Scholarship.</p></div>
+    <div><h2>Scholarship honors</h2><p>Congratulations to Xi Zhou and Xueyi Wang on receiving the National Scholarship, and to Zhongxian Pan on receiving the Special-Class Scholarship.</p></div>
   </article>
   <article class="news-item">
     <div class="news-item__meta"><span>September 2026</span><span>New members</span></div>

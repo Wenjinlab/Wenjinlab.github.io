@@ -8,7 +8,7 @@ permalink: /people/
 
 <div class="person-card person-card--lead">
   <img src="{{ '/files/Li_profile.jpg' | relative_url }}" alt="Wenjin Li" loading="lazy">
-  <div><h3>Wenjin Li</h3><p>Professor, College of Ecology<br>Office: 818, Yifu Building<br>Biodiversity maintenance mechanisms; biodiversity and ecosystem functioning; plant-herbivore-microbial relationships</p><p><a href="mailto:liwj@lzu.edu.cn">Email</a> · <a href="https://www.researchgate.net/profile/Wenjin-Li-6">ResearchGate</a> · <a href="https://orcid.org/0000-0002-6426-4852">ORCID</a></p></div>
+  <div><h3>Wenjin Li</h3><p>Professor, College of Ecology<br>Office: 824, Yifu Building<br>Biodiversity maintenance mechanisms; biodiversity and ecosystem functioning; plant-herbivore-microbial relationships</p><p><a href="mailto:liwj@lzu.edu.cn">Email</a> · <a href="https://www.researchgate.net/profile/Wenjin-Li-6">ResearchGate</a> · <a href="https://orcid.org/0000-0002-6426-4852">ORCID</a></p></div>
 </div>
 
 ## Graduate Students
